@@ -1,0 +1,14 @@
+/Users/nastya/Desktop/dz_pa/Z1/bin/Debug/net7.0/Z1
+/Users/nastya/Desktop/dz_pa/Z1/bin/Debug/net7.0/Z1.deps.json
+/Users/nastya/Desktop/dz_pa/Z1/bin/Debug/net7.0/Z1.runtimeconfig.json
+/Users/nastya/Desktop/dz_pa/Z1/bin/Debug/net7.0/Z1.dll
+/Users/nastya/Desktop/dz_pa/Z1/bin/Debug/net7.0/Z1.pdb
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/Z1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/Z1.AssemblyInfoInputs.cache
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/Z1.AssemblyInfo.cs
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/Z1.csproj.CoreCompileInputs.cache
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/Z1.dll
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/refint/Z1.dll
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/Z1.pdb
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/Z1.genruntimeconfig.cache
+/Users/nastya/Desktop/dz_pa/Z1/obj/Debug/net7.0/ref/Z1.dll
